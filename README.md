@@ -1,4 +1,4 @@
-# eNfinity-Store
+# Ecommerce App
 
 ![logo](https://i.ibb.co/Jzwzn4r/Blog-Post-Banners-3.png)
 
